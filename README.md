@@ -7,3 +7,5 @@ Mario Reyes' Data Analytics portfolio.
 * Cleaned up multiple data sources and created relationships to further develop analysis.
 * Implemented a drill through option to examine a product's profit and return rate.
 * Developed insights of customer demographics to guide business decisions.
+
+!(/images/github1.pdf)
