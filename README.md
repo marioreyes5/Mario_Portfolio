@@ -1,7 +1,7 @@
 # Mario_Portfolio
 Mario Reyes' Data Analytics portfolio.
 
-# Project 1: Business Metrics Visualization With Power BI
+# [Project 1: Business Metrics Visualization With Power BI](https://github.com/PowerBI/AdventureWorks_ReportV2.pbix)
 * Created a Power BI dashboard illustrating the $7.8M profit distribution of a bike shop operating for 2 years.
 * Utilized DAX and M language to create measures and calculated columns.
 * Cleaned up multiple data sources and created relationships to further develop analysis.
