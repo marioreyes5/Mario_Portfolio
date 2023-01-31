@@ -10,3 +10,4 @@ Mario Reyes' Data Analytics portfolio.
 
 [github1.pdf](https://github.com/marioreyes5/Mario_Portfolio/files/10551450/github1.pdf)
 gf
+![](images/github1.png)
