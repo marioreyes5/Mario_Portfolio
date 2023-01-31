@@ -6,8 +6,6 @@ In this project I looked at the sales of 100+ stores scaterred throughout multip
 
 <p align="center">
   <img src="images/github4.PNG"  width="600" >
-
-<br>
   
 # [Project 2: Business Metrics Visualization With Power BI](https://github.com/PowerBI/AdventureWorks_ReportV2.pbix)
 * Created a Power BI dashboard illustrating the $7.8M profit distribution of a bike shop operating for 2 years.
