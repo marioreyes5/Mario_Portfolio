@@ -16,7 +16,10 @@ In this project I looked at the sales of 100+ stores scaterred throughout multip
 * Developed insights of customer demographics to guide business decisions.
   
   
+<p float="left">
+  <img src="images/github1.PNG"  width="310"/>
+  <img src="images/github2.PNG"  width="310"/>
+</p>
 <p align="center">
-  <img src="images/github1.PNG"  width="600" >
-  <img src="images/github2.PNG"  width="600" >
-  <img src="images/github3.PNG"  width="600" >
+ <img src="images/github3.PNG"  width="400">
+</p>
