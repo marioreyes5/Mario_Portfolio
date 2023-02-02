@@ -13,6 +13,10 @@ A Covid-19 nationwide analysis on continents and their countries. Data was outso
 
 SQL queries were written to explore the information in the data sets. Once the analysis was completed, the most interesting findings were exported to excel sheets to upload into Tableau. Metric visualization were created using Tableau Desktop, grouped together in a dashboard, and uploaded to Tableau Public. 
   
+ <p align="center">
+  <img src="images/Covid-19%20Project.PNG"  width="700" >
+</p>
+  
 # [Project 3: Business Metrics Visualization With Power BI](https://github.com/marioreyes5/Mario_Portfolio/blob/main/PowerBI/AdventureWorks_ReportV2.pbix)
 * Created a Power BI dashboard illustrating the $7.8M profit distribution of a bike shop operating for 2 years.
 * Utilized DAX and M language to create measures and calculated columns.
