@@ -19,7 +19,7 @@ A Covid-19 nationwide analysis on continents and their countries. Data was outso
 </p>
 
 # [Project 3: StockX Sales Data](https://public.tableau.com/app/profile/mario.reyes5171/viz/StockX_2019_Analysis/Dashboard1)
-In 2019 StockX, an online retailer platform, hosted a data contest giving people the opportunity to use current sales data to identify trends in the market. [The StockX Contest] supplied us with a snippet of shoe sales from between 9/1/2017 to 2/13/2019 consisting of US sales. 
+In 2019 StockX, an online retailer platform, hosted a data contest giving people the opportunity to use current sales data to identify trends in the market. [The StockX Contest](https://stockx.com/news/the-2019-data-contest/) supplied us with a snippet of shoe sales from between 9/1/2017 to 2/13/2019 consisting of US sales. 
 
 The data was imported into [SQL](https://github.com/marioreyes5/Mario_Portfolio/blob/main/StockX_SQLQuery.sql) for clean up, modification, and analysis. Then, data from the queries was exported to cvs files and linked to tableau desktop. Visualization building took place in tableau desktop and finally uploaded to tableau public.
 
