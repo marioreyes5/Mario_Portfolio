@@ -18,11 +18,14 @@ A Covid-19 nationwide analysis on continents and their countries. Data was outso
   <img src="images/Covid-19%20Project.PNG"  width="700" >
 </p>
 
-# [Project 3: StockX Sales Data](https://public.tableau.com/app/profile/mario.reyes5171/viz/NationwideCovid-19Statisticsasof2113/Dashboard1?publish=yes)
+# [Project 3: StockX Sales Data](https://public.tableau.com/app/profile/mario.reyes5171/viz/StockX_2019_Analysis/Dashboard1)
 In 2019 StockX, an online retailer platform, hosted a data contest giving people the opportunity to use current sales data to identify trends in the market. [The StockX Contest] supplied us with a snippet of shoe sales from between 9/1/2017 to 2/13/2019 consisting of US sales. 
 
-The data was imported into SQL for clean up, modification, and analysis. Then, data from the queries was exported to cvs files and linked to tableau desktop. Visualization building took place in tableau desktop and finally uploaded to tableau public.
+The data was imported into [SQL](https://github.com/marioreyes5/Mario_Portfolio/blob/main/StockX_SQLQuery.sql) for clean up, modification, and analysis. Then, data from the queries was exported to cvs files and linked to tableau desktop. Visualization building took place in tableau desktop and finally uploaded to tableau public.
 
+<p align="center">
+  <img src="images/StockX%20Project.PNG"  width="700" >
+</p>
 
 # [Project 4: Business Metrics Visualization With Power BI](https://github.com/marioreyes5/Mario_Portfolio/blob/main/PowerBI/AdventureWorks_ReportV2.pbix)
 * Created a Power BI dashboard illustrating the $7.8M profit distribution of a bike shop operating for 2 years.
