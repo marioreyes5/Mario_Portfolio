@@ -21,7 +21,18 @@ A Covid-19 nationwide analysis on continents and their countries. Data was outso
   <img src="images/Covid-19%20Project.PNG"  width="700" >
 </p>
 
-# [Project 3: Sales Metrics Visualization With Power BI](https://github.com/marioreyes5/Mario_Portfolio/blob/main/PowerBI/MavenMarket.pbix)
+
+# [Project 3: Worldwide Happiness Analysis](https://github.com/marioreyes5/Mario_Portfolio/blob/main/PowerBI/Happiness.pbix)
+The World Happiness Report is a document that reports the status of global happiness within Countries. It uses data from the annual Gallup World Poll distributed throughtout the years. An extract of the 2015-2019 data was obtained from [Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness) and analyzed to identify KPIs, trends, and relationships. 
+
+The data was merged, cleaned up, and connected to start the process of cross analysis. Measures and columns were created using DAX and Power Query. This enabled us to dive deeper into analytics as data relationships were now possible to make.
+
+ <p align="center">
+  <img src="images/Happiness%20Dashboard.PNG"  width="700" >
+</p>
+
+
+# [Project 4: Sales Metrics Visualization With Power BI](https://github.com/marioreyes5/Mario_Portfolio/blob/main/PowerBI/MavenMarket.pbix)
 In this project I looked at the sales of 100+ stores scattered throughout multiple continents to determine the total revenue per product, along with monthly KPI to determine business performance. Power Query and DAX language was used to create the necessary metrics for the visualization, also helping to clean up the data, and establishing clear relationships between tables.
 
 <p align="center">
@@ -29,7 +40,7 @@ In this project I looked at the sales of 100+ stores scattered throughout multip
 </p>
 
 
-# [Project 4: Business Metrics Visualization With Power BI](https://github.com/marioreyes5/Mario_Portfolio/blob/main/PowerBI/AdventureWorks_ReportV2.pbix)
+# [Project 5: Business Metrics Visualization With Power BI](https://github.com/marioreyes5/Mario_Portfolio/blob/main/PowerBI/AdventureWorks_ReportV2.pbix)
 * Created a Power BI dashboard illustrating the $7.8M profit distribution of a bike shop operating for 2 years.
 * Utilized DAX and M language to create measures and calculated columns.
 * Cleaned up multiple data sources and created relationships to further develop analysis.
