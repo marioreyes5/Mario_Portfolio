@@ -1,14 +1,14 @@
 # Mario_Portfolio
 Mario Reyes' Data Analytics portfolio.
-  
-  
-# [Project 1: 2019 StockX Sales Data](https://public.tableau.com/app/profile/mario.reyes5171/viz/StockX_2019_Analysis/Dashboard1)
-In 2019 StockX, an online retailer platform, hosted a data contest giving people the opportunity to use current sales data to identify trends in the market. [The StockX Contest](https://stockx.com/news/the-2019-data-contest/) supplied us with a snippet of shoe sales from between 9/1/2017 to 2/13/2019 consisting of US sales. 
 
-The data was imported into [SQL](https://github.com/marioreyes5/Mario_Portfolio/blob/main/StockX_SQLQuery.sql) for clean up, modification, and analysis. Then, data from the queries was exported to cvs files and linked to tableau desktop. Visualization building took place in tableau desktop and finally uploaded to tableau public.
+  
+# [Project 1: 2017 StockX Sales Data](https://public.tableau.com/shared/ZZX3ZSD2X?:display_count=n&:origin=viz_share_link)
+In 2016 StockX, an online retailer platform, hosted a data contest giving people the opportunity to use current sales data to identify trends in the market. [The StockX Contest](https://stockx.com/news/data-contest-analyze-jordans-nmds-win-money/) supplied us with a snippet of Nike and Adidas shoe sales in 2016 consisting of only US sales. 
+
+The data was imported into [SQL](https://github.com/marioreyes5/Mario_Portfolio/blob/main/StockX2016_SQLQuery.sql) for clean up, modification, and analysis. Then, data from the queries was exported to cvs files and linked to tableau desktop. Visualization building took place in tableau desktop which includes a filter to view statistcs between both shoe brands. The final dashboard was uploaded to tableau public.
 
 <p align="center">
-  <img src="images/StockX%20Project.PNG"  width="700" >
+  <img src="images/StockX2016.PNG"  width="700" >
 </p>
 
 # [Project 2: Worldwide Happiness Analysis](https://github.com/marioreyes5/Mario_Portfolio/blob/main/PowerBI/Happiness.pbix)
@@ -20,13 +20,14 @@ The data was merged, cleaned up, and connected to start the process of cross ana
   <img src="images/Happiness%20Dashboard.PNG"  width="700" >
 </p>
 
-# [Project 3: 2017 StockX Sales Data](https://public.tableau.com/shared/ZZX3ZSD2X?:display_count=n&:origin=viz_share_link)
-In 2016 StockX, an online retailer platform, hosted a data contest giving people the opportunity to use current sales data to identify trends in the market. [The StockX Contest](https://stockx.com/news/data-contest-analyze-jordans-nmds-win-money/) supplied us with a snippet of Nike and Adidas shoe sales in 2016 consisting of only US sales. 
 
-The data was imported into [SQL](https://github.com/marioreyes5/Mario_Portfolio/blob/main/StockX2016_SQLQuery.sql) for clean up, modification, and analysis. Then, data from the queries was exported to cvs files and linked to tableau desktop. Visualization building took place in tableau desktop which includes a filter to view statistcs between both shoe brands. The final dashboard was uploaded to tableau public.
+# [Project 3: 2019 StockX Sales Data](https://public.tableau.com/app/profile/mario.reyes5171/viz/StockX_2019_Analysis/Dashboard1)
+In 2019 StockX, an online retailer platform, hosted a data contest giving people the opportunity to use current sales data to identify trends in the market. [The StockX Contest](https://stockx.com/news/the-2019-data-contest/) supplied us with a snippet of shoe sales from between 9/1/2017 to 2/13/2019 consisting of US sales. 
+
+The data was imported into [SQL](https://github.com/marioreyes5/Mario_Portfolio/blob/main/StockX_SQLQuery.sql) for clean up, modification, and analysis. Then, data from the queries was exported to cvs files and linked to tableau desktop. Visualization building took place in tableau desktop and finally uploaded to tableau public.
 
 <p align="center">
-  <img src="images/StockX2016.PNG"  width="700" >
+  <img src="images/StockX%20Project.PNG"  width="700" >
 </p>
 
 # [Project 4: Nationwide Covid-19 Statistics](https://public.tableau.com/app/profile/mario.reyes5171/viz/NationwideCovid-19Statisticsasof2113/Dashboard1?publish=yes)
