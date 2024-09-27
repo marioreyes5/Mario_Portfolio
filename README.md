@@ -2,7 +2,14 @@
 Mario Reyes' Data Analytics portfolio.
 
 
-# [Project 1L 2023 Movie Industry Data]([Movie Correlation Project.ipynb](https://github.com/marioreyes5/Mario_Portfolio/blob/0145490a1f9d725b560e381249949e891dc695b6/Movie%20Correlation%20Project.ipynb))
+# [Project 1L 2023 Movie Industry Data](https://github.com/marioreyes5/Mario_Portfolio/blob/0145490a1f9d725b560e381249949e891dc695b6/Movie%20Correlation%20Project.ipynb)
+Data analysis project that looked at over 3000+ movies released from 1980-2020. The goal was to figure out is there were any correlations between a movie's characteristics and their gross revenue. Data was obtained from [Kaggle](https://www.kaggle.com/datasets/mohammadrizwansajjad/top-200-movies-of-2023) which scraped from IMDb's website.
+
+The data was imported to Jupyterlab and utilized the coding language of Python to generate metrics. Within python we cleaned up the data and visualized it. Some of the libraries used were pandas, numpy, matplot, and seaborn.
+
+<p align="center">
+  <img src="images/StockX2016.PNG"  width="700" >
+</p>
   
 # [Project 1: 2017 StockX Sales Data](https://public.tableau.com/shared/ZZX3ZSD2X?:display_count=n&:origin=viz_share_link)
 In 2016 StockX, an online retailer platform, hosted a data contest giving people the opportunity to use current sales data to identify trends in the market. [The StockX Contest](https://stockx.com/news/data-contest-analyze-jordans-nmds-win-money/) supplied us with a snippet of Nike and Adidas shoe sales in 2016 consisting of only US sales. 
