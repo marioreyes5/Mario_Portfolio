@@ -1,6 +1,8 @@
 # Mario_Portfolio
 Mario Reyes' Data Analytics portfolio.
 
+
+# [Project 1L 2023 Movie Industry Data]([Movie Correlation Project.ipynb](https://github.com/marioreyes5/Mario_Portfolio/blob/0145490a1f9d725b560e381249949e891dc695b6/Movie%20Correlation%20Project.ipynb))
   
 # [Project 1: 2017 StockX Sales Data](https://public.tableau.com/shared/ZZX3ZSD2X?:display_count=n&:origin=viz_share_link)
 In 2016 StockX, an online retailer platform, hosted a data contest giving people the opportunity to use current sales data to identify trends in the market. [The StockX Contest](https://stockx.com/news/data-contest-analyze-jordans-nmds-win-money/) supplied us with a snippet of Nike and Adidas shoe sales in 2016 consisting of only US sales. 
