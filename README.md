@@ -8,7 +8,7 @@ Data analysis project that looked at over 3000+ movies released from 1980-2020. 
 The data was imported to Jupyterlab and utilized the coding language of Python to generate metrics. Within python we cleaned up the data and visualized it. Some of the libraries used were pandas, numpy, matplot, and seaborn.
 
 <p align="center">
-  <img src="images/StockX2016.PNG"  width="700" >
+  <img src="images/Movies_Project.PNG"  width="700" >
 </p>
   
 # [Project 1: 2017 StockX Sales Data](https://public.tableau.com/shared/ZZX3ZSD2X?:display_count=n&:origin=viz_share_link)
