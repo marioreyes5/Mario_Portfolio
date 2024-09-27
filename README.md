@@ -11,7 +11,7 @@ The data was imported to Jupyterlab and utilized the coding language of Python t
   <img src="images/Movies Project.PNG"  width="700" >
 </p>
   
-# [Project 2: 2017 StockX Sales Data]([https://public.tableau.com/shared/ZZX3ZSD2X?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Stock2016_Analysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+# [Project 2: 2016 StockX Sales Data](https://public.tableau.com/views/Stock2016_Analysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 In 2016 StockX, an online retailer platform, hosted a data contest giving people the opportunity to use current sales data to identify trends in the market. [The StockX Contest](https://stockx.com/news/data-contest-analyze-jordans-nmds-win-money/) supplied us with a snippet of Nike and Adidas shoe sales in 2016 consisting of only US sales. 
 
 The data was imported into [SQL](https://github.com/marioreyes5/Mario_Portfolio/blob/main/StockX2016_SQLQuery.sql) for clean up, modification, and analysis. Then, data from the queries was exported to cvs files and linked to tableau desktop. Visualization building took place in tableau desktop which includes a filter to view statistcs between both shoe brands. The final dashboard was uploaded to tableau public.
