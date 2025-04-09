@@ -7,7 +7,7 @@ With the rise of Airbnb availability, major cities have seen an influx of touris
 The data was imported into VSCode and analyzed using Python to generate metrics and visuals. Some of the libraries utilized included pandas, geopandas, numpy, matplotlib, and seaborn. This project also involved merging multiple datasets, cleaning unsorted data, and formatting information to enable analysis.
 
 <p align="center">
-  <img src="images/NYC 20all.png"  width="700" >
+  <img src="images/NYC all.png"  width="700" >
 </p>
 
 # [Project 2: 2023 Movie Industry Data](https://github.com/marioreyes5/Mario_Portfolio/blob/0145490a1f9d725b560e381249949e891dc695b6/Movie%20Correlation%20Project.ipynb)
