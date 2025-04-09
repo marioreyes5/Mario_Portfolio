@@ -1,13 +1,13 @@
 # Mario_Portfolio
 Mario Reyes' Data Analytics portfolio.
 
-# [Project 1: 2023 Movie Industry Data](https://github.com/marioreyes5/Mario_Portfolio/blob/0145490a1f9d725b560e381249949e891dc695b6/Movie%20Correlation%20Project.ipynb)
-Data analysis project that looked at over 3000+ movies released from 1980-2020. The goal was to figure out if there were any correlations between a movie's characteristics and their gross revenue. Data was obtained from [Kaggle](https://www.kaggle.com/datasets/mohammadrizwansajjad/top-200-movies-of-2023) which scraped from IMDb's website.
+# [Project 1: NYC Airbnb Postings](https://github.com/marioreyes5/Mario_Portfolio/blob/main/Airbnb.ipynb)
+With the rise of Airbnb availability, major cities have seen an influx of tourists utilizing this service. One major area where we see this change is in NYC. In this data analysis project, I examined the prices of Airbnb postings from November 2024 and investigated their prices by neighborhood, availability, and the correlation between Airbnb posting attributes. Data was obtained from [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
 
-The data was imported to Jupyterlab and utilized the coding language of Python to generate metrics. Within python we cleaned up the data and visualized it. Some of the libraries used were pandas, numpy, matplot, and seaborn.
+The data was imported into VSCode and analyzed using Python to generate metrics and visuals. Some of the libraries utilized included pandas, geopandas, numpy, matplotlib, and seaborn. This project also involved merging multiple datasets, cleaning unsorted data, and formatting information to enable analysis.
 
 <p align="center">
-  <img src="images/Movies Project.PNG"  width="700" >
+  <img src="images/NYC 20all.png"  width="700" >
 </p>
 
 # [Project 2: 2023 Movie Industry Data](https://github.com/marioreyes5/Mario_Portfolio/blob/0145490a1f9d725b560e381249949e891dc695b6/Movie%20Correlation%20Project.ipynb)
